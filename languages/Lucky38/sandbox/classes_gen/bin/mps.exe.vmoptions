@@ -1,0 +1,10 @@
+-client
+-Xss1024k
+-ea
+-Xmx1100m
+-XX:MaxPermSize=256m
+-XX:NewSize=256m
+-XX:+HeapDumpOnOutOfMemoryError
+-Dfile.encoding=UTF-8
+-Dapple.awt.graphics.UseQuartz=true
+-Didea.paths.selector=MPS30
