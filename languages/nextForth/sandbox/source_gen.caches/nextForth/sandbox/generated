@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="-1lq3ub06twlujj4oibwg1wb3p8glalp">
+  <common hash="-a8a38glv7eq6ay3g9s02py8xlrsngt6" />
+  <source id="7404711711738480710" name="baseLang" hash="5vh5gzdw1n4yezb5j0kj3eoc81djzib">
+    <file name="baseLang.java" />
+  </source>
+</dependencies>
+

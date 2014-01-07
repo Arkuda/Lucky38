@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<debugInfo>
-  <root nodeRef="r:0a4cca30-1a62-414c-9ec9-61b2090fd2ef(Lucky38.sandbox)/821225785629050624" />
-  <root nodeRef="r:0a4cca30-1a62-414c-9ec9-61b2090fd2ef(Lucky38.sandbox)/821225785629348966" />
-  <root nodeRef="r:0a4cca30-1a62-414c-9ec9-61b2090fd2ef(Lucky38.sandbox)/821225785629356645">
-    <unitInfo nodeId="821225785629356645" fileName="baseClass.java" startLine="6" startPosition="0" endLine="10" endPosition="0" unitName="Lucky38.sandbox.baseClass" />
-  </root>
-</debugInfo>
-

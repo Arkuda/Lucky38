@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="dj31" modelUID="r:4d6d976d-de38-45a4-aee4-e39c7e5b3688(nextForth.generator.template.main@generator)" version="-1" />
+      <model index="v3jy" modelUID="r:96bab6d6-4044-4c83-bdc5-c496e21dc17d(nextForth.textGen)" version="-1" />
+      <model index="ibu3" modelUID="r:aa20aa7d-7f79-473a-9a31-32cfeb1a46e3(nextForth.editor)" version="-1" />
+      <model index="g8m8" modelUID="r:823cf9ad-f917-4c07-8eb2-616808e8e162(nextForth.behavior)" version="-1" />
+      <model index="cnnw" modelUID="r:21865161-6a24-48de-814f-50c41ffb7cb7(nextForth.structure)" version="-1" />
+      <model index="fu1z" modelUID="r:1010664f-9658-44ce-b50f-4a0fa296b069(nextForth.constraints)" version="-1" />
+      <model index="16hf" modelUID="r:a7f0887d-2603-4feb-b094-bd8ae4bc680f(nextForth.typesystem)" version="-1" />
+    </dependencies>
+    <RenameModel oldModel="r:aa20aa7d-7f79-473a-9a31-32cfeb1a46e3(nextForth.editor)" newModel="r:aa20aa7d-7f79-473a-9a31-32cfeb1a46e3(Lucky38.editor)" />
+    <RenameModel oldModel="r:96bab6d6-4044-4c83-bdc5-c496e21dc17d(nextForth.textGen)" newModel="r:96bab6d6-4044-4c83-bdc5-c496e21dc17d(Lucky38.textGen)" />
+    <RenameModel oldModel="r:823cf9ad-f917-4c07-8eb2-616808e8e162(nextForth.behavior)" newModel="r:823cf9ad-f917-4c07-8eb2-616808e8e162(Lucky38.behavior)" />
+    <RenameModel oldModel="r:21865161-6a24-48de-814f-50c41ffb7cb7(nextForth.structure)" newModel="r:21865161-6a24-48de-814f-50c41ffb7cb7(Lucky38.structure)" />
+    <RenameModel oldModel="r:a7f0887d-2603-4feb-b094-bd8ae4bc680f(nextForth.typesystem)" newModel="r:a7f0887d-2603-4feb-b094-bd8ae4bc680f(Lucky38.typesystem)" />
+    <RenameModel oldModel="r:1010664f-9658-44ce-b50f-4a0fa296b069(nextForth.constraints)" newModel="r:1010664f-9658-44ce-b50f-4a0fa296b069(Lucky38.constraints)" />
+    <RenameModel oldModel="r:4d6d976d-de38-45a4-aee4-e39c7e5b3688(nextForth.generator.template.main@generator)" newModel="r:4d6d976d-de38-45a4-aee4-e39c7e5b3688(Lucky38.generator.template.main@generator)" />
+  </StructureModification>
+</history>
+
