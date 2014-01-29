@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="-emllcqwptgg95nkge2cz2e0jy2h749g">
+<dependencies version="2" modelHash="aoynw2vy7nez54aho9izqkoiy6xkqiv">
   <dep model="f:java_stub#6ed54515-acc8-4d1e-a16c-9fd6cfe951ea#jetbrains.mps.smodel.runtime.impl(MPS.Core/jetbrains.mps.smodel.runtime.impl@java_stub)" />
   <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c89590293(jetbrains.mps.lang.structure.generator_new.baseLanguage@generator)" />
@@ -19,5 +19,6 @@
   </common>
   <source id="1621400204199392563" name="newIfStatment" hash="-6n0jdjt7ixwyd3leduxvwlwt2agpsek" />
   <source id="5399019800089063338" name="newFuncDecloration" hash="-ediub8vxv5l7c9vdvxdbh9jly7vhkeu" />
+  <source id="3556548918119454733" name="newForStatment" hash="7hj1spe4ttnvasrnn1ovvsih52rl878" />
 </dependencies>
 

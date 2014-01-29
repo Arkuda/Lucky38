@@ -29,5 +29,10 @@
     <property name="conceptAlias" nameId="tpce.5092175715804935370" value="func" />
     <link role="extends" roleId="tpce.1071489389519" targetNodeId="tpee.1068580123165" resolveInfo="InstanceMethodDeclaration" />
   </root>
+  <root type="tpce.ConceptDeclaration" typeId="tpce.1071489090640" id="3556548918119454733" nodeInfo="ig">
+    <property name="name" nameId="tpck.1169194664001" value="newForStatment" />
+    <property name="conceptAlias" nameId="tpce.5092175715804935370" value="forn" />
+    <link role="extends" roleId="tpce.1071489389519" targetNodeId="tpee.1144231330558" resolveInfo="ForStatement" />
+  </root>
 </model>
 
