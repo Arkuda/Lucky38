@@ -6,30 +6,23 @@ package nextForth.sandbox;
 public class baseLang {
 
 
+
+  public void myFunc() {
+    int i = 0;
+  }
+
+
+
+
+
+
   public static void main(String[] args) {
 
 
     int i = 0;
-    if (i == 0) {
-      i = 1;
-    }
+
     return;
   }
-
-
-
-  public void lastFunc() {
-  }
-
-
-
-
-
-  public void NAME() {
-    int n = 0;
-    lastFunc();
-  }
-
 
 
 

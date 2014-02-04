@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="2tcwk48cn9ow1me3kmhrkvptcb2gwp">
+<dependencies version="2" modelHash="4bb675mzef4q754kjm7n427dw6ezoon">
   <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.editor.runtime.style(MPS.Editor/jetbrains.mps.editor.runtime.style@java_stub)" />
   <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.nodeEditor.cells(MPS.Editor/jetbrains.mps.nodeEditor.cells@java_stub)" />
   <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.openapi.editor.descriptor(MPS.Editor/jetbrains.mps.openapi.editor.descriptor@java_stub)" />
@@ -40,7 +40,7 @@
     <dep model="r:21865161-6a24-48de-814f-50c41ffb7cb7(Lucky38.structure)" />
     <file name="newFuncDecloration_Editor.java" />
   </source>
-  <source id="4077771044825470783" name="newForStatment_Editor" hash="-9wff09b67uzd6o4eoaj0rak0rrhf17x">
+  <source id="4077771044825470783" name="newForStatment_Editor" hash="ed0r6048tpn297ioy9gys5gobx7fgvh">
     <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.editor.runtime.style(MPS.Editor/jetbrains.mps.editor.runtime.style@java_stub)" />
     <dep model="f:java_stub#1ed103c3-3aa6-49b7-9c21-6765ee11f224#jetbrains.mps.nodeEditor.cells(MPS.Editor/jetbrains.mps.nodeEditor.cells@java_stub)" />
     <dep model="r:00000000-0000-4000-0000-011c8959029e(jetbrains.mps.lang.editor.structure)" />

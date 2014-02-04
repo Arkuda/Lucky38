@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="-1lq3ub06twlujj4oibwg1wb3p8glalp">
-  <common hash="-a8a38glv7eq6ay3g9s02py8xlrsngt6" />
-  <source id="7404711711738480710" name="baseLang" hash="5vh5gzdw1n4yezb5j0kj3eoc81djzib">
+<dependencies version="2" modelHash="-8b0i1xmlr5y7wp9iur23toh4vfg33zz">
+  <dep model="r:4d6d976d-de38-45a4-aee4-e39c7e5b3688(Lucky38.generator.template.main@generator)" hash="-c07j4yjl1bpbis4nvpjk7vf9p42brw2" />
+  <common hash="-9k06qoydh6gzq9norz9jr7fpjvyecqx" />
+  <source id="7404711711738480710" name="baseLang" hash="1dkru18ietruuyd057cs9a1z539zf6w">
+    <dep model="r:4d6d976d-de38-45a4-aee4-e39c7e5b3688(Lucky38.generator.template.main@generator)" />
     <file name="baseLang.java" />
   </source>
 </dependencies>
