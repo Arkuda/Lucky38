@@ -44,6 +44,7 @@
       <node role="visibility" roleId="tpee.1178549979242" type="tpee.PublicVisibility" typeId="tpee.1146644602865" id="4457663653386678904" nodeInfo="nn" />
     </node>
     <node role="member" roleId="tpee.5375687026011219971" type="tpee.PlaceholderMember" typeId="tpee.1465982738277781862" id="8726274824785694162" nodeInfo="ngu" />
+    <node role="member" roleId="tpee.5375687026011219971" type="tpee.PlaceholderMember" typeId="tpee.1465982738277781862" id="2579261127377533659" nodeInfo="ngu" />
     <node role="member" roleId="tpee.5375687026011219971" type="cnnw.newFuncDecloration" typeId="cnnw.5399019800089063338" id="5772986399936496945" nodeInfo="igu">
       <property name="name" nameId="tpck.1169194664001" value="myFunc" />
       <node role="returnType" roleId="tpee.1068580123133" type="tpee.VoidType" typeId="tpee.1068581517677" id="5772986399936496947" nodeInfo="in" />

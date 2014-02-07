@@ -4,6 +4,7 @@
     <projectModules>
       <modulePath path="$PROJECT_DIR$/languages/nextForth/nextForth.mpl" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/nextForth/sandbox/nextForth.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/../MultisLaunch/plugin-customPacks/plugin-customPacks.msd" folder="" />
     </projectModules>
   </component>
 </project>

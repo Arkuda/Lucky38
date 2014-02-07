@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dependencies version="2" modelHash="-c07j4yjl1bpbis4nvpjk7vf9p42brw2">
+<dependencies version="2" modelHash="3mg7qlxlic943szd4fb3l5jxm62ei44">
   <dep model="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902bc(jetbrains.mps.lang.sharedConcepts.structure)" />
   <dep model="r:00000000-0000-4000-0000-011c895902ca(jetbrains.mps.baseLanguage.structure)" />
@@ -30,7 +30,7 @@
   </common>
   <source id="8726274824785354338" name="main" hash="axzfeg6r8ppxtkp50kyzpanerzjlwa4" />
   <source id="8726274824785354339" name="reduce_newIfStatment" hash="81gzi8b5lxfhsd82b6oerakx9tcuews" />
-  <source id="8726274824785482477" name="reduce_newFuncDecloration" hash="-7dvqgm15rzfudo89uwbz5eiqw3wfsaz" />
-  <source id="4077771044825530073" name="reduce_newForStatment" hash="2lkjrjb9j9xil5jlya29ossqff03t9g" />
+  <source id="8726274824785482477" name="reduce_newFuncDecloration" hash="-32n17ek6x6amn2efrk0ciusbkcuw2m9" />
+  <source id="4077771044825530073" name="reduce_newForStatment" hash="-b390bsctwg6x3401y0w4wqe3se131jw" />
 </dependencies>
 
