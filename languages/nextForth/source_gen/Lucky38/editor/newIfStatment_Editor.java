@@ -7,11 +7,11 @@ import jetbrains.mps.openapi.editor.cells.EditorCell;
 import jetbrains.mps.openapi.editor.EditorContext;
 import org.jetbrains.mps.openapi.model.SNode;
 import jetbrains.mps.nodeEditor.cells.EditorCell_Collection;
-import jetbrains.mps.nodeEditor.cells.EditorCell_Constant;
 import jetbrains.mps.nodeEditor.cellProviders.CellProviderWithRole;
 import jetbrains.mps.lang.editor.cellProviders.RefNodeCellProvider;
 import jetbrains.mps.smodel.IOperationContext;
 import jetbrains.mps.nodeEditor.EditorManager;
+import jetbrains.mps.nodeEditor.cells.EditorCell_Constant;
 
 public class newIfStatment_Editor extends DefaultNodeEditor {
   public EditorCell createEditorCell(EditorContext editorContext, SNode node) {
@@ -22,21 +22,13 @@ public class newIfStatment_Editor extends DefaultNodeEditor {
     EditorCell_Collection editorCell = EditorCell_Collection.createHorizontal(editorContext, node);
     editorCell.setCellId("Collection_wyjhn2_a");
     editorCell.setBig(true);
-    editorCell.addEditorCell(this.createConstant_wyjhn2_a0(editorContext, node));
-    editorCell.addEditorCell(this.createRefNode_wyjhn2_b0(editorContext, node));
-    editorCell.addEditorCell(this.createConstant_wyjhn2_c0(editorContext, node));
-    editorCell.addEditorCell(this.createRefNode_wyjhn2_d0(editorContext, node));
+    editorCell.addEditorCell(this.createRefNode_wyjhn2_a0(editorContext, node));
+    editorCell.addEditorCell(this.createConstant_wyjhn2_b0(editorContext, node));
+    editorCell.addEditorCell(this.createRefNode_wyjhn2_c0(editorContext, node));
     return editorCell;
   }
 
-  private EditorCell createConstant_wyjhn2_a0(EditorContext editorContext, SNode node) {
-    EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, "?");
-    editorCell.setCellId("Constant_wyjhn2_a0");
-    editorCell.setDefaultText("");
-    return editorCell;
-  }
-
-  private EditorCell createRefNode_wyjhn2_b0(EditorContext editorContext, SNode node) {
+  private EditorCell createRefNode_wyjhn2_a0(EditorContext editorContext, SNode node) {
     CellProviderWithRole provider = new RefNodeCellProvider(node, editorContext);
     provider.setRole("cond");
     provider.setNoTargetText("<no cond>");
@@ -56,14 +48,14 @@ public class newIfStatment_Editor extends DefaultNodeEditor {
     return editorCell;
   }
 
-  private EditorCell createConstant_wyjhn2_c0(EditorContext editorContext, SNode node) {
-    EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, ":");
-    editorCell.setCellId("Constant_wyjhn2_c0");
+  private EditorCell createConstant_wyjhn2_b0(EditorContext editorContext, SNode node) {
+    EditorCell_Constant editorCell = new EditorCell_Constant(editorContext, node, "?");
+    editorCell.setCellId("Constant_wyjhn2_b0");
     editorCell.setDefaultText("");
     return editorCell;
   }
 
-  private EditorCell createRefNode_wyjhn2_d0(EditorContext editorContext, SNode node) {
+  private EditorCell createRefNode_wyjhn2_c0(EditorContext editorContext, SNode node) {
     CellProviderWithRole provider = new RefNodeCellProvider(node, editorContext);
     provider.setRole("stat");
     provider.setNoTargetText("<no stat>");
